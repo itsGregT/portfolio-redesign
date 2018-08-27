@@ -194,7 +194,7 @@ textarea {
 #portfolio,
 #about,
 #contact {
-    background: linear-gradient(rgba(34, 34, 34, 0.9), rgba(34, 34, 34, 0.9)), url(../img/vaporwave-chicago-bg.png);
+    background: linear-gradient(rgba(34, 34, 34, 0.9), rgba(34, 34, 34, 0.9)), url(./img/vaporwave-chicago-bg.png);
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
