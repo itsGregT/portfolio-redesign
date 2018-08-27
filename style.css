@@ -9,9 +9,14 @@ body {
 
 body {
     margin: auto;
-    padding: auto;
     color: #fff;
-    font-family: "Montserrat", Helvetica, Arial, sans-serif
+    font-family: "Montserrat", Helvetica, Arial, sans-serif;
+    background-color: #333;
+    background: linear-gradient(rgba(34, 34, 34, 0.9), rgba(34, 34, 34, 0.9)), url(./img/vaporwave-chicago-bg.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
 }
 
 h1,
@@ -188,18 +193,6 @@ textarea {
     #home .content {
         top: 35%
     }
-}
-
-#home,
-#portfolio,
-#about,
-#contact {
-    background-color: #333;
-    background: linear-gradient(rgba(34, 34, 34, 0.9), rgba(34, 34, 34, 0.9)), url(./img/vaporwave-chicago-bg.png);
-    background-repeat: no-repeat;
-    background-size: cover;
-    background-position: center;
-    background-attachment: fixed;
 }
 
 .page-title {
